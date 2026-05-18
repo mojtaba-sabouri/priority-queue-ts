@@ -1,0 +1,19 @@
+{
+  "name": "priority-queue-ts",
+  "version": "1.0.0",
+  "description": "A lightweight, generic, type-safe Priority Queue in TypeScript built on a binary heap.",
+  "main": "dist/priority-queue.js",
+  "types": "dist/priority-queue.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest"
+  },
+  "keywords": ["priority-queue", "heap", "binary-heap", "typescript", "data-structures"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
