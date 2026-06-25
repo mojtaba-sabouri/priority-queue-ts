@@ -145,9 +145,9 @@ The tree structure is navigated purely with index arithmetic — no node objects
 If you want to understand the full implementation — including the mathematical
 proof of the index formulas — I wrote a 3-part series explaining everything from scratch:
 
-- [Part 1 — What is a Queue, and Why Does Priority Matter?](REPLACE_WITH_YOUR_MEDIUM_LINK_1)
-- [Part 2 — Heaps Explained: The Math Behind Priority Queues](REPLACE_WITH_YOUR_MEDIUM_LINK_2)
-- [Part 3 — Building a Priority Queue from Scratch in TypeScript](REPLACE_WITH_YOUR_MEDIUM_LINK_3)
+- [Part 1 — What is a Queue, and Why Does Priority Matter?](https://medium.com/@sabouri.dev/what-is-a-queue-and-why-does-priority-matter-69936d3c7b9c)
+- [Part 2 — Heaps Explained: The Math Behind Priority Queues](https://medium.com/@sabouri.dev/heaps-explained-the-math-behind-priority-queues-d43c6746f0d6)
+- [Part 3 — Building a Priority Queue from Scratch in TypeScript](https://medium.com/@sabouri.dev/building-a-priority-queue-from-scratch-in-typescript-f2b7ae866bfa)
 
 ---
 
